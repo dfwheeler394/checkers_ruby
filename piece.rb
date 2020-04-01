@@ -1,3 +1,6 @@
+require 'colorize'
+require_relative 'piece.rb'
+
 class Piece
 
   UP_SLIDES = [[-1, -1], [-1, 1]]

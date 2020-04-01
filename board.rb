@@ -1,3 +1,6 @@
+require 'colorize'
+require_relative 'piece.rb'
+
 class Board
 
   BOARD_SIZE = 8
