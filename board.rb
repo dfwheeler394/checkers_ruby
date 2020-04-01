@@ -11,7 +11,7 @@ class Board
   end
 
   def render
-    puts  "   0  1  2  3  4  5  6  7"
+    puts  "   1  2  3  4  5  6  7  8"
     BOARD_SIZE.times do |x|
       print "#{x} "
       BOARD_SIZE.times do |y|
